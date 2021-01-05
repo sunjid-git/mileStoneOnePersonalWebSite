@@ -1,0 +1,24 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+  
+}
+section{
+    height: 500px;
+}
+.half{
+    width: 40%;
+    margin-left: 5px;
+    padding-left: 2%;
+    float: left;
+}
+.profile-image{
+    width: 80%;
+    height: 400px;
+}
+.button-style{
+    text-decoration: none;
+    color: white;
+    border-radius: 6px;
+    background-color: #F96D61;
+    padding: 9px 28px;
+}
