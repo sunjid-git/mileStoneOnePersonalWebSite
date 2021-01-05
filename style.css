@@ -5,6 +5,13 @@ body{
 .text-highlight{
     color: #FF927A;
 }
+.color-type-one{
+    color: #363958;
+}
+.color-type-two{
+    color: #696871;
+}
+
 #one{
     background-color: #FFFFFF;
 }
@@ -32,24 +39,45 @@ body{
     color: white;
     border-radius: 6px;
     background-color: #F96D61;
-    padding: 9px 28px;
-    text-transform: capitalize;
+    padding: 12px 35px;
+    text-transform:none;
+    text-align: center;
+    
 }
-#center{
+.inquiry{
+    border-radius: 30px;
+    margin: auto 0;
+    width: 50%;
+    height: 60%;
+}
+
+.center{
     text-align: center;
 }
 .project-size{
     width: 30%;
     height: 250px;
     border-radius: 19px;
-    box-shadow: 10px 10px 50px #e0e1e4;
-    float: left;
-    text-align: center;
+    box-shadow: 0px 7px 20px rgba(0, 0, 0, .1);
+    text-align: left;
+    padding: 15px;
+    /* float: left; */
 }
-.project-image{
-   
+.project-image img{
     width: 80%;
     height: 100px;
     border-radius: 16px;
-    padding-top: 15px;
+    padding: 15px 30px;
+}
+
+
+
+
+footer{
+    margin: 25px;
+}
+.footer-image{
+    width: 40px;
+    height: 40px;
+    padding: 15px;
 }
