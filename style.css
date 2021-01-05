@@ -2,16 +2,28 @@ body{
     font-family: 'Bebas Neue', cursive;
   
 }
-section{
-    height: 500px;
+.text-highlight{
+    color: #FF927A;
+}
+#one{
+    background-color: #FFFFFF;
+}
+#two{
+    background-color: #F8F9FC;
+}
+.hello-part{
+    height: 475px;
+}
+.about-part{
+    height: 475px;
 }
 .half{
-    width: 40%;
+    width: 45%;
     margin-left: 5px;
     padding-left: 2%;
     float: left;
 }
-.profile-image{
+.half img{
     width: 80%;
     height: 400px;
 }
@@ -21,4 +33,23 @@ section{
     border-radius: 6px;
     background-color: #F96D61;
     padding: 9px 28px;
+    text-transform: capitalize;
+}
+#center{
+    text-align: center;
+}
+.project-size{
+    width: 30%;
+    height: 250px;
+    border-radius: 19px;
+    box-shadow: 10px 10px 50px #e0e1e4;
+    float: left;
+    text-align: center;
+}
+.project-image{
+   
+    width: 80%;
+    height: 100px;
+    border-radius: 16px;
+    padding-top: 15px;
 }
