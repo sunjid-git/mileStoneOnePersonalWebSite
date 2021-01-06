@@ -44,7 +44,6 @@ body{
     
 }
 
-
 .hello-part {
     height: 400px;
     padding: 50px 50px;
@@ -74,8 +73,9 @@ body{
     text-align: center;
     
 }
-
-
+.fixing{
+    margin-left: 50px;
+}
 .center{
     text-align: center;
 }
@@ -174,3 +174,4 @@ body{
     height: 35px;
     padding-left: 25px;
 }
+
