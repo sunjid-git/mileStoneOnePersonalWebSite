@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding:0;
+}
 body{
     font-family: 'Bebas Neue', cursive;
   
@@ -60,7 +64,7 @@ body{
     width: 27%;
     height: 325px;
     border-radius: 15px;
-    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, .1);
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, .2);
     text-align: left;
     padding: 15px;
     float: left; 
@@ -115,33 +119,35 @@ body{
     font-size: 600;
 }
 .four{
-    padding-top: 75px;
-    margin: 0 auto;
-    height: 350px;
-   
+    
+    margin-top: 10px;
+    height: 150px;
+    background-color: red;
 }
+
+
 .work-in{
    
-     background-image: url("./images/workin.png");
+     background-image: url("./images/workin.png"); 
     margin: auto;
     width: 50%;
-    height: 150px;
+    height: 150px; 
   
     
 }
 .work-left{
-   
+   padding: 45px 50px;
     float: left;
 }
 .work-right{
-   
+ 
 }
-
-footer{
-  
+.five{
+    line-height: 50px;
+    padding: 25px;
 }
 .footer-image{
-    width: 40px;
-    height: 40px;
-    padding: 15px;
+    width: 35px;
+    height: 35px;
+    padding-left: 25px;
 }
