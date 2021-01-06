@@ -16,6 +16,9 @@ body{
 .space{
    padding-bottom: 25px;
 }
+.bold{
+    font-weight: bold;
+}
 .color-type-one{
     color: #363958;
 }
@@ -31,7 +34,6 @@ body{
 .font-size-three{
     font-size: 30px;
 }
-
 #one{
     background-color: #FFFFFF;
 
@@ -43,8 +45,6 @@ body{
     height: 525px;
     margin-bottom: 25px;
 }
-
-
 .hello-part {
     height: 400px;
     padding: 50px 50px;
@@ -81,7 +81,6 @@ body{
     text-align: center;
 }
 .project-size{
-   
     width: 27%;
     height: 325px;
     border-radius: 15px;
@@ -144,9 +143,7 @@ body{
 }
 .four{
     height: 200px;
-    
 }
-
 .work-in{
      background-image: url("./images/workin.png"); 
     margin: 0 auto;
