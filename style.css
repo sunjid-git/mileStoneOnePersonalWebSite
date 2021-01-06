@@ -24,7 +24,7 @@ body{
     background-color: #F8F9FC;
     padding: 50px;
     margin-left: 60px;
-    height: 500px;
+    height: 475px;
     
 }
 
@@ -61,12 +61,13 @@ body{
     text-align: center;
 }
 .project-size{
+   
     width: 27%;
     height: 325px;
     border-radius: 15px;
     box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, .2);
     text-align: left;
-    padding: 15px;
+    padding:  15px;
     float: left; 
     margin: 0 auto;
     margin-right: 30px;
@@ -89,6 +90,7 @@ body{
     width: 35%;
     height: 550px;
     margin: auto;
+    margin-top: 25px;
 }
 .contact{
     height: 450px;
@@ -103,7 +105,6 @@ body{
     height: 30px;
     border-radius: 4px;
     padding: 5px;
-    
 }
 .y{
     width: 375px;
@@ -120,27 +121,30 @@ body{
 }
 .four{
     
-    margin-top: 10px;
+    margin-top: 25px;
     height: 150px;
-    background-color: red;
+    margin-bottom: 50px;
 }
 
 
 .work-in{
    
      background-image: url("./images/workin.png"); 
-    margin: auto;
+    margin:  auto;
     width: 50%;
-    height: 150px; 
-  
+    height: 80px; 
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 100px;
+   
     
 }
-.work-left{
-   padding: 45px 50px;
+.left-work-writing{
     float: left;
+   
 }
-.work-right{
- 
+.right-work-writing{
+    margin-left: 522px;
 }
 .five{
     line-height: 50px;
