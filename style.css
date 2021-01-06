@@ -5,6 +5,7 @@ body{
 
 .bebas-text{
     font-family: 'Bebas Neue', cursive;
+    text-transform: capitalize;
 }
 .robota-text{
     font-family: 'Roboto', sans-serif;
@@ -12,11 +13,23 @@ body{
 .text-highlight{
     color: #FF927A;
 }
+.space{
+   padding-bottom: 15px;
+}
 .color-type-one{
     color: #363958;
 }
 .color-type-two{
     color: #696871;
+}
+.font-size-one{
+    font-size: 50px;
+}
+.font-size-two{
+    font-size: 40px;
+}
+.font-size-three{
+    font-size: 30px;
 }
 
 #one{
@@ -31,11 +44,14 @@ body{
     
 }
 
-.hello-part{
+
+.hello-part {
     height: 400px;
+    padding: 50px 50px;
 }
 .about-part{
     height: 425px;
+   
 }
 .half{
     width: 45%;
@@ -91,9 +107,11 @@ body{
 }
 .three{
     width: 35%;
-    height: 550px;
+    height: 600px;
     margin: auto;
     margin-top: 25px;
+    margin-bottom: 30px;
+
 }
 .contact{
     height: 450px;
@@ -101,6 +119,7 @@ body{
     padding: 25px 35px;
     line-height: 60px;
     background-color: rgb(236, 241, 241);
+    
 }
 
 .x{
@@ -125,13 +144,11 @@ body{
 .four{
     
     margin-top: 25px;
-    height: 150px;
+    height: 200px;
     margin-bottom: 50px;
 }
 
-
 .work-in{
-   
      background-image: url("./images/workin.png"); 
     margin:  auto;
     width: 50%;
@@ -139,19 +156,18 @@ body{
     background-size: contain;
     background-repeat: no-repeat;
     padding: 100px;
-   
-    
 }
 .left-work-writing{
     float: left;
-   
+    color: white;
 }
 .right-work-writing{
     margin-left: 522px;
 }
 .five{
-    line-height: 50px;
+    line-height: 30px;
     padding: 25px;
+    
 }
 .footer-image{
     width: 35px;
