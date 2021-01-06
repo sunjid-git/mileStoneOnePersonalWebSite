@@ -14,7 +14,7 @@ body{
     color: #FF927A;
 }
 .space{
-   padding-bottom: 15px;
+   padding-bottom: 25px;
 }
 .color-type-one{
     color: #363958;
@@ -38,11 +38,12 @@ body{
 }
 #two{
     background-color: #F8F9FC;
-    padding: 50px;
+    padding: 50px 60px;
     margin-left: 60px;
-    height: 475px;
-    
+    height: 525px;
+    margin-bottom: 25px;
 }
+
 
 .hello-part {
     height: 400px;
@@ -84,7 +85,7 @@ body{
     width: 27%;
     height: 325px;
     border-radius: 15px;
-    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, .2);
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, .1);
     text-align: left;
     padding:  15px;
     float: left; 
@@ -111,15 +112,15 @@ body{
     margin: auto;
     margin-top: 25px;
     margin-bottom: 30px;
-
+    
 }
 .contact{
     height: 450px;
-    box-shadow: 10px 10px 30px 10px rgba(0, 0, 0, .1);
+    box-shadow: 10px 10px 30px 10px rgba(0, 0, 0, .2);
     padding: 25px 35px;
     line-height: 60px;
-    background-color: rgb(236, 241, 241);
-    
+    background-color: rgb(242, 245, 245);
+    border-radius: 15px;
 }
 
 .x{
@@ -151,19 +152,19 @@ body{
     margin: 0 auto;
     width: 60%;
     height: 200px; 
-    background-size: 750px 175px;
+    background-size: 800px 200px;
     background-repeat: no-repeat;
    text-align: center;
 }
 .left-work-writing{
     float: left;
     color: white;
-    padding-top: 35px;
+    padding-top: 40px;
     padding-left: 50px;
 }
 .right-work-writing{
-    margin-left: 525px;
-    padding-top: 80px;
+    margin-left: 500px;
+    padding-top: 90px;
     padding-right: 50px;
 }
 .five{
