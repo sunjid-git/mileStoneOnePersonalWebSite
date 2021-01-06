@@ -83,22 +83,42 @@ body{
 }
 .three{
     width: 35%;
-    height: 500px;
+    height: 550px;
     margin: auto;
 }
 .contact{
-    height: 300px;
-    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, .1);
-    padding: 35px;
-    border-radius: 15px;
-    line-height: 40px;
+    height: 450px;
+    box-shadow: 10px 10px 30px 10px rgba(0, 0, 0, .1);
+    padding: 25px 35px;
+    line-height: 60px;
+    background-color: rgb(236, 241, 241);
 }
 
+.x{
+    width: 385px;
+    height: 30px;
+    border-radius: 4px;
+    padding: 5px;
+    
+}
+.y{
+    width: 375px;
+    border-radius: 4px;
+    padding: 10px;
+}
+.z{
+    width: 400px;
+    height: 35px;
+    border-radius: 4px;
+    color: white;
+    background-color: tomato;
+    font-size: 600;
+}
 .four{
     padding-top: 75px;
     margin: 0 auto;
-    height: 400px;
-    background-color: grey;
+    height: 350px;
+   
 }
 .work-in{
    
