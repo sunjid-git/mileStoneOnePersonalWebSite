@@ -1,10 +1,13 @@
-*{
+body{
     margin: 0;
     padding:0;
 }
-body{
+
+.bebas-text{
     font-family: 'Bebas Neue', cursive;
-  
+}
+.robota-text{
+    font-family: 'Roboto', sans-serif;
 }
 .text-highlight{
     color: #FF927A;
